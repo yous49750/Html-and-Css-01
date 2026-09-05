@@ -1,0 +1,23 @@
+h1{
+    border: 2px solid red;
+    border-radius: 25px;
+    /* display: inline-block; */
+    padding: 10px;
+    background: red;
+    text-align: center;
+    color: #fff;
+}
+h1:hover{
+    background: rgba(250,0 , 0, 0.2);
+    color:#000;
+}
+a{
+    text-decoration: none;
+    border: 2px double brown;
+    padding: 5px;
+    border-radius: 20px;
+    background:brown;
+}
+a:hover{
+    background: rgba(250,0,0,0.2);
+}
